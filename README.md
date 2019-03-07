@@ -36,11 +36,11 @@ excellent [PHP League OAuth2 Client](http://oauth2-client.thephpleague.com/).
 
 The module can be installed with composer.
 
-    composer require cirrusidentity/simplesamlphp-module-authoauth2
+    composer require glaar/simplesamlphp-module-authoauth2
 
 Or you can install the latest from master
 
-    composer require cirrusidentity/simplesamlphp-module-authoauth2:dev-master
+    composer require glaar/simplesamlphp-module-authoauth2:dev-master
 
 If you install into a tar ball distribution of SSP then composer, by default, will also install all `dev` dependencies for SSP and this module. This can be a long list.
 If you prefer not having dev dependencies installed, then you can use.
